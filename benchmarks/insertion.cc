@@ -1,6 +1,5 @@
 #include <chrono>
 #include <immintrin.h>
-#include <iostream>
 #include <list>
 #include <print>
 #include <vector>
